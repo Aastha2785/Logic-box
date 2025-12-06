@@ -23,8 +23,6 @@ It lets users check various numeric properties and generate sequences.
 2. Click any button to check or display results  
 3. Output will appear instantly in the result area  
 
-## 📸 Screenshot  
-(Add a screenshot of your UI here)
 
 ## 👩‍💻 Author  
 Aastha — Learning Frontend & Web Technologies  
